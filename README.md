@@ -22,7 +22,7 @@ Conference | Date | Location | Speaker
 [Google I/O SF WebRTC](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/222719027/) | Jul 1 | San Francisco | WebRTC Everywhere: Beyond the Browser
 [Chaos Communication Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13 - 17 | Berlin, Germany
-[Coldfront Conference](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | The Future of the Web ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
+[Coldfront Conference](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
 [Chaos Communication Congress](https://events.ccc.de/congress/2015/wiki/Main_Page) | Dec 27 - 30 | Hamburg, Germany
 
 # 2014
