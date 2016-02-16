@@ -30,7 +30,7 @@ Conference | Date | Location | Speaker
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [WebRTC Camp](http://sf.jsfest.com/) | Mar 8 | San Francisco | Staff
-[DHTMLConf / RejectJS](http://dhtmlconf.com) | Mar 8 | San Francisco
+[DHTMLConf](http://dhtmlconf.com) | Mar 8 | San Francisco
 [JavaScript Fest](http://sf.jsfest.com/) | Mar 9 | San Francisco | [Demystifying WebRTC](#TODO)
 [CraftConf](http://craft-conf.com/2014/) | Apr 23 | Budapest, Hungary | WebTorrent: Bringing BitTorrent to the Web ([video](https://www.youtube.com/watch?v=PT8s_IVWDgw)) ([slides](https://speakerdeck.com/feross/webtorrent-bringing-bittorrent-to-the-web-with-webrtc-and-mad-science))
 [JS.LA](http://js.la) | Apr 29 | Los Angeles | How I built a BitTorrent client in the browser ([video](https://vimeo.com/97324247))
