@@ -7,10 +7,14 @@ List of conferences/meetups that I'm attending.
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun (and Profit?) ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
-[SquatConf](http://squatconf.eu) | Apr 1 | Paris, France
-[Edge Summit](https://edgesummit2016.eventfarm.com) | Apr 4 | San Francisco
+[SquatConf](http://squatconf.eu) | Apr 30 | Berlin, Germany
+[Microsoft Edge Web Summit](https://edgesummit2016.eventfarm.com) | Apr 4 | San Francisco
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | TBD
 [NodeConf](http://nodeconf.com) | Jun 9 - 12 | San Francisco
+[Arctic JS Summer](http://arcticjs.club) | TBD | TBD
+[CC Congress](http://events.ccc.de/) | TBD | TBD
+
+Probably more from [this list](https://github.com/watson/hacker-conferences)...
 
 # 2015
 
@@ -21,9 +25,9 @@ Conference | Date | Location | Speaker
 [Data Terra Nemo](http://dtn.is) | May 23 | Berlin, Germany | WebRTC Everywhere: Beyond the Browser ([video](https://www.youtube.com/watch?v=RRtNEcAaUO8)) ([slides](https://speakerdeck.com/feross/webrtc-everywhere-beyond-the-browser-at-data-terra-nemo-2015))
 [Google I/O WebRTC (meetup)](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
 [SF WebRTC (meetup)](http://www.meetup.com/SF-WebRTC/events/222719027/) | Jul 1 | San Francisco | WebRTC Everywhere: Beyond the Browser
-[Chaos Communication Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13 - 17 | Berlin, Germany
+[CC Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13 - 17 | Berlin, Germany
 [Coldfront Conference](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
-[Chaos Communication Congress](https://events.ccc.de/congress/2015/wiki/Main_Page) | Dec 27 - 30 | Hamburg, Germany
+[CC Congress](https://events.ccc.de/congress/2015/wiki/Main_Page) | Dec 27 - 30 | Hamburg, Germany
 
 # 2014
 
