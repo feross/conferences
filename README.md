@@ -19,8 +19,8 @@ Conference | Date | Location | Speaker
 [SINFO](https://app.sinfo.org) | Feb 2 - 3 | Lisbon, Portugal | How BitTorrent Works ([video](https://www.youtube.com/watch?v=FAOP1qSErPA)) ([slides](https://speakerdeck.com/feross/intro-to-bittorrent-and-webtorrent))
 [NodeConf One-Shot](http://christchurch.nodeconf.com) | Mar 28 | Christchurch, New Zealand | Adventures in P2P JavaScript ([slides](https://speakerdeck.com/feross/adventures-in-p2p-javascript))
 [Data Terra Nemo](http://dtn.is) | May 23 | Berlin, Germany | WebRTC Everywhere: Beyond the Browser ([video](https://www.youtube.com/watch?v=RRtNEcAaUO8)) ([slides](https://speakerdeck.com/feross/webrtc-everywhere-beyond-the-browser-at-data-terra-nemo-2015))
-[Google I/O SF WebRTC](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
-[SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/222719027/) | Jul 1 | San Francisco | WebRTC Everywhere: Beyond the Browser
+[Google I/O WebRTC (meetup)](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
+[SF WebRTC (meetup)](http://www.meetup.com/SF-WebRTC/events/222719027/) | Jul 1 | San Francisco | WebRTC Everywhere: Beyond the Browser
 [Chaos Communication Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13 - 17 | Berlin, Germany
 [Coldfront Conference](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
 [Chaos Communication Congress](https://events.ccc.de/congress/2015/wiki/Main_Page) | Dec 27 - 30 | Hamburg, Germany
