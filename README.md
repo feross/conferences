@@ -6,10 +6,10 @@ List of conferences/meetups that I'm attending.
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using ancient browser APIs for fun (and profit?) ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
+[Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun (and Profit?) ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
 [SquatConf](http://squatconf.eu) | Apr 1 | Paris, France
 [Edge Summit](https://edgesummit2016.eventfarm.com) | Apr 4 | San Francisco
-[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent TBD
+[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | TBD
 [NodeConf](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 
 # 2015
@@ -31,14 +31,14 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [WebRTC Camp](http://sf.jsfest.com/) | Mar 8 | San Francisco | Staff
 [DHTMLConf](http://dhtmlconf.com) | Mar 8 | San Francisco
-[JavaScript Fest](http://sf.jsfest.com/) | Mar 9 | San Francisco | [Demystifying WebRTC](#TODO)
+[JavaScript Fest](http://sf.jsfest.com/) | Mar 9 | San Francisco | Demystifying WebRTC
 [CraftConf](http://craft-conf.com/2014/) | Apr 23 - 25 | Budapest, Hungary | WebTorrent: Bringing BitTorrent to the Web ([video](https://www.youtube.com/watch?v=PT8s_IVWDgw)) ([slides](https://speakerdeck.com/feross/webtorrent-bringing-bittorrent-to-the-web-with-webrtc-and-mad-science))
 [JS.LA](http://js.la) | Apr 29 | Los Angeles | How I built a BitTorrent client in the browser ([video](https://vimeo.com/97324247))
 [LXJS](http://2014.lxjs.org) | Jun 27 - 28 | Lisbon, Portugal | Peer-to-peer Web ([video](https://www.youtube.com/watch?v=QpQhR9fBNnk)) ([slides](https://speakerdeck.com/feross/peer-to-peer-web))
 [NodeConf](http://nodeconf.com) | Jul 4 - 7 | San Francisco | Browserify Adventure ([nodeschool](https://www.npmjs.com/package/browserify-adventure))
 [NodeConf EU](http://nodeconfeu.com) | Sep 7 - 11 | Dublin, Ireland | WebRTC Mad Science ([video](https://www.youtube.com/watch?v=BVBXkzVjvPc))
 [JSConf Asia](http://2014.jsconf.asia) | Nov 20 - 21 | Singapore | Intro to BitTorrent and WebTorrent ([video](https://www.youtube.com/watch?v=kxHRATfvnlw)) ([slides](https://speakerdeck.com/feross/intro-to-bittorrent-and-webtorrent))
-[NUS (tech talk)](https://www.comp.nus.edu.sg/) | Nov 21 | Singapore | Intro to BitTorrent and WebTorrent ([slides](https://speakerdeck.com/feross/intro-to-bittorrent-and-webtorrent))
+[NUS (tech talk)](https://www.comp.nus.edu.sg/) | Nov 21 | Singapore | Intro to BitTorrent and WebTorrent
 
 # 2013
 
