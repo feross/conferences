@@ -11,6 +11,7 @@ Conference | Date | Location | Speaker
 [SquatConf](http://squatconf.eu) | Apr 30 | Berlin, Germany
 [Oslo Freedom Forum](https://oslofreedomforum.com/) | May 23 - 25 | Oslo
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | TBD
+[CampJS](http://vii.campjs.com/) | Jun 3 - 6 | Sydney, Australia
 [NodeConf](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 [Arctic JS Summer](http://arcticjs.club) | TBD | TBD
 [CC Congress](http://events.ccc.de/) | TBD | TBD
