@@ -43,6 +43,7 @@ Conference | Date | Location | Speaker
 [LXJS](http://2014.lxjs.org) | Jun 27 - 28 | Lisbon, Portugal | Peer-to-peer Web ([video](https://www.youtube.com/watch?v=QpQhR9fBNnk)) ([slides](https://speakerdeck.com/feross/peer-to-peer-web))
 [NodeConf](http://nodeconf.com) | Jul 4 - 7 | San Francisco | Browserify Adventure ([nodeschool](https://www.npmjs.com/package/browserify-adventure))
 [NodeConf EU](http://nodeconfeu.com) | Sep 7 - 11 | Dublin, Ireland | WebRTC Mad Science ([video](https://www.youtube.com/watch?v=BVBXkzVjvPc))
+[opoJS](http://opojs.com) | Nov 12 | Porto, Portugal
 [JSConf Asia](http://2014.jsconf.asia) | Nov 20 - 21 | Singapore | Intro to BitTorrent and WebTorrent ([video](https://www.youtube.com/watch?v=kxHRATfvnlw)) ([slides](https://speakerdeck.com/feross/intro-to-bittorrent-and-webtorrent))
 [NUS (tech talk)](https://www.comp.nus.edu.sg/) | Nov 21 | Singapore | Intro to BitTorrent and WebTorrent
 
