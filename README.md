@@ -13,6 +13,7 @@ Conference | Date | Location | Speaker
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | TBD
 [CampJS](http://vii.campjs.com/) | Jun 3 - 6 | Sydney, Australia
 [NodeConf](http://nodeconf.com) | Jun 9 - 12 | San Francisco
+[ColdFront](https://2016.coldfrontconf.com/) | Sep 1 | Copenhagen, Denmark
 [Arctic JS Summer](http://arcticjs.club) | TBD | TBD
 [CC Congress](http://events.ccc.de/) | TBD | TBD
 
