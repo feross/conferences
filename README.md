@@ -22,7 +22,8 @@ Probably more from [this list](https://github.com/watson/hacker-conferences)...
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[SINFO](https://app.sinfo.org) | Feb 2 - 3 | Lisbon, Portugal | How BitTorrent Works ([video](https://www.youtube.com/watch?v=FAOP1qSErPA)) ([slides](https://speakerdeck.com/feross/intro-to-bittorrent-and-webtorrent))
+[SINFO](https://app.sinfo.org) | Feb 23 - 24 | Lisbon, Portugal | How BitTorrent Works ([video](https://www.youtube.com/watch?v=FAOP1qSErPA)) ([slides](https://speakerdeck.com/feross/intro-to-bittorrent-and-webtorrent))
+[opoJS](http://opojs.com) | Feb 26 | Porto, Portugal
 [NodeConf One-Shot](http://christchurch.nodeconf.com) | Mar 28 | Christchurch, New Zealand | Adventures in P2P JavaScript ([slides](https://speakerdeck.com/feross/adventures-in-p2p-javascript))
 [Data Terra Nemo](http://dtn.is) | May 23 | Berlin, Germany | WebRTC Beyond the Browser ([video](https://www.youtube.com/watch?v=RRtNEcAaUO8)) ([slides](https://speakerdeck.com/feross/webrtc-everywhere-beyond-the-browser-at-data-terra-nemo-2015))
 [Google I/O WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
@@ -43,7 +44,6 @@ Conference | Date | Location | Speaker
 [LXJS](http://2014.lxjs.org) | Jun 27 - 28 | Lisbon, Portugal | Peer-to-peer Web ([video](https://www.youtube.com/watch?v=QpQhR9fBNnk)) ([slides](https://speakerdeck.com/feross/peer-to-peer-web))
 [NodeConf](http://nodeconf.com) | Jul 4 - 7 | San Francisco | Browserify Adventure ([nodeschool](https://www.npmjs.com/package/browserify-adventure))
 [NodeConf EU](http://nodeconfeu.com) | Sep 7 - 11 | Dublin, Ireland | WebRTC Mad Science ([video](https://www.youtube.com/watch?v=BVBXkzVjvPc))
-[opoJS](http://opojs.com) | Nov 12 | Porto, Portugal
 [JSConf Asia](http://2014.jsconf.asia) | Nov 20 - 21 | Singapore | Intro to BitTorrent and WebTorrent ([video](https://www.youtube.com/watch?v=kxHRATfvnlw)) ([slides](https://speakerdeck.com/feross/intro-to-bittorrent-and-webtorrent))
 [NUS (tech talk)](https://www.comp.nus.edu.sg/) | Nov 21 | Singapore | Intro to BitTorrent and WebTorrent
 
