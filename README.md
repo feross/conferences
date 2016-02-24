@@ -6,11 +6,11 @@ List of conferences/meetups that I'm attending.
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
+[Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun ...and Profit? ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
 [Microsoft Edge Web Summit](https://edgesummit2016.eventfarm.com) | Apr 4 | San Francisco
 [SquatConf](http://squatconf.eu) | Apr 30 | Berlin, Germany
 [Oslo Freedom Forum](https://oslofreedomforum.com/) | May 23 - 25 | Oslo
-[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | TBD
+[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent – Bringing P2P to the masses with WebRTC
 [CampJS](http://vii.campjs.com/) | Jun 3 - 6 | Sydney, Australia
 [NodeConf](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 [ColdFront](https://2016.coldfrontconf.com/) | Sep 1 | Copenhagen, Denmark
@@ -26,7 +26,7 @@ Conference | Date | Location | Speaker
 [SINFO](https://app.sinfo.org) | Feb 23 - 24 | Lisbon, Portugal | How BitTorrent Works ([video](https://www.youtube.com/watch?v=FAOP1qSErPA)) ([slides](https://speakerdeck.com/feross/intro-to-bittorrent-and-webtorrent))
 [opoJS](http://opojs.com) | Feb 26 | Porto, Portugal
 [NodeConf One-Shot](http://christchurch.nodeconf.com) | Mar 28 | Christchurch, New Zealand | Adventures in P2P JavaScript ([slides](https://speakerdeck.com/feross/adventures-in-p2p-javascript))
-[Data Terra Nemo](http://dtn.is) | May 23 | Berlin, Germany | WebRTC Beyond the Browser ([video](https://www.youtube.com/watch?v=RRtNEcAaUO8)) ([slides](https://speakerdeck.com/feross/webrtc-everywhere-beyond-the-browser-at-data-terra-nemo-2015))
+[Data Terra Nemo](http://dtn.is) | May 23 | Berlin, Germany | WebRTC Everywhere ([video](https://www.youtube.com/watch?v=RRtNEcAaUO8)) ([slides](https://speakerdeck.com/feross/webrtc-everywhere-beyond-the-browser-at-data-terra-nemo-2015))
 [Google I/O WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
 [SF WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222719027/) | Jul 1 | San Francisco | WebRTC Beyond the Browser
 [CC Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13 - 17 | Berlin, Germany
@@ -40,7 +40,7 @@ Conference | Date | Location | Speaker
 [WebRTC Camp](http://sf.jsfest.com/) | Mar 8 | San Francisco | Staff
 [DHTMLConf](http://dhtmlconf.com) | Mar 8 | San Francisco
 [JavaScript Fest](http://sf.jsfest.com/) | Mar 9 | San Francisco | Demystifying WebRTC
-[CraftConf](http://craft-conf.com/2014/) | Apr 23 - 25 | Budapest, Hungary | WebTorrent: Bringing BitTorrent to the Web ([video](https://www.youtube.com/watch?v=PT8s_IVWDgw)) ([slides](https://speakerdeck.com/feross/webtorrent-bringing-bittorrent-to-the-web-with-webrtc-and-mad-science))
+[CraftConf](http://craft-conf.com/2014/) | Apr 23 - 25 | Budapest, Hungary | WebTorrent – Bringing BitTorrent to the Web ([video](https://www.youtube.com/watch?v=PT8s_IVWDgw)) ([slides](https://speakerdeck.com/feross/webtorrent-bringing-bittorrent-to-the-web-with-webrtc-and-mad-science))
 [JS.LA](http://js.la) | Apr 29 | Los Angeles | How I built a BitTorrent client in the browser ([video](https://vimeo.com/97324247))
 [LXJS](http://2014.lxjs.org) | Jun 27 - 28 | Lisbon, Portugal | Peer-to-peer Web ([video](https://www.youtube.com/watch?v=QpQhR9fBNnk)) ([slides](https://speakerdeck.com/feross/peer-to-peer-web))
 [NodeConf](http://nodeconf.com) | Jul 4 - 7 | San Francisco | Browserify Adventure ([nodeschool](https://www.npmjs.com/package/browserify-adventure))
