@@ -62,10 +62,13 @@ eBay (tech talk) | Aug 6 | San Jose | PeerCDN ([slides](https://speakerdeck.com/
 [Realtime Conf](http://2013.realtimeconf.com) | Oct 19 - 20 | Portland | WebRTC Data Black Magic ([video](https://vimeo.com/77265280)) ([slides](https://speakerdeck.com/feross/webrtc-data-black-magic))
 [WebRTC Camp](http://2013.webrtccamp.com) | Oct 20 | Portland | Staff
 
-# 2010-2012 (College)
+# 2010-2012 (University Years)
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Stanford ACM (tech talk)](http://stanfordacm.com) | Jan 29, 2010 | Stanford | Web Security at Stanford University ([slides](https://speakerdeck.com/feross/web-security-at-stanford-university))
-[Stanford ACM (tech talk)](http://stanfordacm.com) | Oct 29, 2010 | Stanford | Database Passwords Everywhere ([slides](https://speakerdeck.com/feross/database-passwords-everywhere))
+[Stanford ACM](http://stanfordacm.com) | Jan 29, 2010 | Stanford | Web Security at Stanford University ([slides](https://speakerdeck.com/feross/web-security-at-stanford-university))
+[Stanford ASES](http://ases.stanford.edu) | Oct 18, 2010 | Stanford | The Story of YouTube Instant
+[Stanford ACM](http://stanfordacm.com) | Oct 29, 2010 | Stanford | Going Viral on the Web
+[Stanford ASES](http://ases.stanford.edu) | Feb 26, 2011 | Stanford | How to Start Your Company by Age 21 (panel)
+[Stanford ACM](http://stanfordacm.com) | Jan 20, 2012 | Stanford | Database Passwords Everywhere ([slides](https://speakerdeck.com/feross/database-passwords-everywhere))
 [DEFCON 20](https://www.defcon.org) | Aug 7, 2012 | Las Vegas
