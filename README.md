@@ -18,7 +18,7 @@ Conference | Date | Location | Speaker
 
 Possibly more from [this list](https://github.com/watson/hacker-conferences)...
 
-\* = Still need to get tickets
+**BOLD** = Got tickets, definitely going!
 
 # 2015
 
