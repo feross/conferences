@@ -9,7 +9,6 @@ Conference | Date | Location | Speaker
 [Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun ...and Profit? ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
 [Microsoft Edge Web Summit](https://edgesummit2016.eventfarm.com) | Apr 4 | San Francisco
 [SquatConf](http://squatconf.eu)* | Apr 30 | Berlin, Germany
-[Oslo Freedom Forum](https://oslofreedomforum.com)* | May 23 - 25 | Oslo
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent – Bringing P2P to the masses with WebRTC
 [CampJS](http://vii.campjs.com)* | Jun 3 - 6 | Sydney, Australia
 [NodeConf](http://nodeconf.com)* | Jun 9 - 12 | San Francisco
