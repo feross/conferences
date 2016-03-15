@@ -7,6 +7,7 @@ List of conferences/meetups that I'm attending.
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun ...and Profit? ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
+[Collaboration Summit](http://events.linuxfoundation.org/events/collaboration-summit) | Mar 29 - 31 | Lake Tahoe
 [Microsoft Edge Web Summit](https://edgesummit2016.eventfarm.com) | Apr 4 | San Francisco
 [**SquatConf**](http://squatconf.eu) | Apr 30 | Berlin, Germany
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent – Bringing P2P to the masses with WebRTC
