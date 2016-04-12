@@ -13,7 +13,7 @@ Conference | Date | Location | Speaker
 [**CampJS**](http://vii.campjs.com) | Jun 3 - 6 | Sydney, Australia
 [**NodeConf Adventure**](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 [**ColdFront**](https://2016.coldfrontconf.com) | Sep 1 | Copenhagen, Denmark
-[**Arctic JS Summer**](http://arcticjs.club) | Sep 7-14 | Longyearbyen, Svalbard
+[**Arctic JS Summer**](http://arcticjs.club) | Sep 7-14 | Longyearbyen, Svalbard | TBD
 [**NodeConf Argentina**](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | TBD
 [**CC Congress**](http://events.ccc.de) | TBD | TBD
 
