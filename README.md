@@ -11,6 +11,7 @@ Conference | Date | Location | Speaker
 [**SquatConf**](http://squatconf.eu) | Apr 30 | Berlin, Germany
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent – Bringing P2P to the masses with WebRTC
 [**CampJS**](http://vii.campjs.com) | Jun 3 - 6 | Sydney, Australia
+[**Decentralized Web Summit**](http://www.decentralizedweb.net) | Jun 8 | San Francisco
 [**NodeConf Adventure**](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 [**ColdFront**](https://2016.coldfrontconf.com) | Sep 1 | Copenhagen, Denmark
 [**Arctic JS Summer**](http://arcticjs.club) | Sep 7-14 | Longyearbyen, Svalbard | TBD
