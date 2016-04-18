@@ -10,7 +10,6 @@ Conference | Date | Location | Speaker
 [Collaboration Summit](http://events.linuxfoundation.org/events/collaboration-summit) | Mar 29 - 31 | Lake Tahoe
 [**SquatConf**](http://squatconf.eu) | Apr 30 | Berlin, Germany
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent – Bringing P2P to the masses with WebRTC
-[**CampJS**](http://vii.campjs.com) | Jun 3 - 6 | Sydney, Australia
 [**Decentralized Web Summit**](http://www.decentralizedweb.net) | Jun 8 | San Francisco
 [**NodeConf Adventure**](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 [**ColdFront**](https://2016.coldfrontconf.com) | Sep 1 | Copenhagen, Denmark
