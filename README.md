@@ -8,9 +8,10 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun ...and Profit? ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
 [Collaboration Summit](http://events.linuxfoundation.org/events/collaboration-summit) | Mar 29 - 31 | Lake Tahoe
-[**SquatConf**](http://squatconf.eu) | Apr 30 | Berlin, Germany
+[SquatConf](http://squatconf.eu) | Apr 29-30 | Berlin, Germany
+[CSV Conf](http://csvconf.com/) | May 3-4 | Berlin, Germany
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent – Bringing P2P to the masses with WebRTC
-[**Decentralized Web Summit**](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco
+[Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco
 [**NodeConf Adventure**](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 [**ColdFront**](https://2016.coldfrontconf.com) | Sep 1 | Copenhagen, Denmark
 [**Arctic JS Summer**](http://arcticjs.club) | Sep 7-14 | Longyearbyen, Svalbard | TBD
