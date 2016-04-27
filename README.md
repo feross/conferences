@@ -1,6 +1,6 @@
 # conferences
 
-List of conferences/meetups that I'm attending.
+List of conferences that I'm attending.
 
 # 2016
 
