@@ -12,7 +12,7 @@ Conference | Date | Location | Speaker
 [CSV Conf](http://csvconf.com/) | May 3-4 | Berlin, Germany
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
 [Stanford CompSec](https://crypto.stanford.edu/jcm60/) | May 19 - 20 | Stanford, CA
-[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent – Bringing P2P to the masses with WebRTC
+[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser
 [Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco
 [**NodeConf Adventure**](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 [**ColdFront**](https://2016.coldfrontconf.com) | Sep 1 | Copenhagen, Denmark
