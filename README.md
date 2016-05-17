@@ -11,7 +11,7 @@ Conference | Date | Location | Speaker
 [SquatConf](http://squatconf.eu) | Apr 29-30 | Berlin, Germany
 [CSV Conf](http://csvconf.com/) | May 3-4 | Berlin, Germany
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
-[Workshop on Computer Security, Logic, and Programming Languages](https://crypto.stanford.edu/jcm60/) | May 19 - 20 | Stanford, CA
+[Computer Security, Logic, and Programming Languages](https://crypto.stanford.edu/jcm60/) | May 19 - 20 | Stanford, CA
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | WebTorrent – Bringing P2P to the masses with WebRTC
 [Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco
 [**NodeConf Adventure**](http://nodeconf.com) | Jun 9 - 12 | San Francisco
