@@ -14,9 +14,7 @@ Conference | Date | Location | Speaker
 [Stanford CompSec](https://crypto.stanford.edu/jcm60/) | May 19 - 20 | Stanford, CA
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser
 [Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco
-[**NodeConf Adventure**](http://nodeconf.com) | Jun 9 - 12 | San Francisco
 [**ColdFront**](https://2016.coldfrontconf.com) | Sep 1 | Copenhagen, Denmark
-[**Arctic JS Summer**](http://arcticjs.club) | Sep 7-14 | Longyearbyen, Svalbard | TBD
 [**NodeConf Argentina**](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | TBD
 [**CC Congress**](http://events.ccc.de) | TBD | TBD
 
