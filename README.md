@@ -8,7 +8,7 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun ...and Profit? ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
 [Collaboration Summit](http://events.linuxfoundation.org/events/collaboration-summit) | Mar 29 - 31 | Lake Tahoe
-[SquatConf](http://squatconf.eu) | Apr 29-30 | Berlin, Germany
+[SquatConf](http://squatconf.eu) | Apr 29-30 | Berlin, Germany | WebTorrent
 [CSV Conf](http://csvconf.com/) | May 3-4 | Berlin, Germany
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser
