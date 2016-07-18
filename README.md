@@ -12,7 +12,7 @@ Conference | Date | Location | Speaker
 [CSV Conf](http://csvconf.com/) | May 3-4 | Berlin, Germany
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser
-[Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco
+[Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco | P2P Panel, WebTorrent
 [Node Summit](http://nodesummit.com) | Aug 26-28 | San Francisco
 [NodeConf EU](http://www.nodeconf.eu) | Oct 16-20 | Ireland | [Electron](http://electron.atom.io) workshop
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | TBD
