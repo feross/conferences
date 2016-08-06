@@ -15,6 +15,7 @@ Conference | Date | Location | Speaker
 [Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco | P2P Panel, WebTorrent
 [Node Summit](http://nodesummit.com) | Aug 26-28 | San Francisco
 [NodeConf EU](http://www.nodeconf.eu) | Oct 16-20 | Ireland | [Electron](http://electron.atom.io) workshop
+[NodeJS Conf Italy](http://nodejsconf.it) | Oct 22 | Desenzano, Italy | [Electron](http://electron.atom.io) workshop
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | TBD
 [**CC Congress**](http://events.ccc.de) | TBD | TBD
 
