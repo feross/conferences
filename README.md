@@ -17,6 +17,7 @@ Conference | Date | Location | Speaker
 [NodeConf EU](http://www.nodeconf.eu) | Oct 16-20 | Ireland | [Electron](http://electron.atom.io) workshop
 [NodeJS Conf Italy](http://nodejsconf.it) | Oct 22 | Desenzano, Italy | [Electron](http://electron.atom.io) workshop
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | TBD
+[HolyJS](http://holyjs.ru/en) | Dec 11 | Moscow, Russia | TBD
 [**CC Congress**](http://events.ccc.de) | TBD | TBD
 
 Possibly more from [this list](https://github.com/watson/hacker-conferences)...
