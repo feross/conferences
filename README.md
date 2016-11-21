@@ -1,6 +1,8 @@
 # conferences
 
-List of conferences that I'm attending.
+List of conferences that I'm attending. (**BOLD** = Tentative, need to get tickets.)
+
+For a complete list of cool conferences, see [hacker-conferences](https://github.com/watson/hacker-conferences).
 
 # 2017
 
@@ -27,10 +29,6 @@ Conference | Date | Location | Speaker
 [NodeJS Conf Italy](http://nodejsconf.it) | Oct 22 | Desenzano, Italy | [Electron](http://electron.atom.io) workshop
 [NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | Real-world Electron
 [**CCC**](http://events.ccc.de) | Dec 27 - 30 | Hamburg, Germany
-
-Possibly more from [this list](https://github.com/watson/hacker-conferences)...
-
-**BOLD** = Tentative, need to get tickets.
 
 # 2015
 
