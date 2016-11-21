@@ -2,23 +2,30 @@
 
 List of conferences that I'm attending.
 
+# 2017
+
+Conference | Date | Location | Speaker
+-----------|------|----------|--------
+[**Nordic JS**](http://nordicjs.com) | Sep 7 - 8 | Stockholm, Sweden | TBD
+[**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
+[**CCC**](http://events.ccc.de) | Dec | Hamburg, Germany
+
 # 2016
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun ...and Profit? ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
 [Collaboration Summit](http://events.linuxfoundation.org/events/collaboration-summit) | Mar 29 - 31 | Lake Tahoe
-[SquatConf](http://squatconf.eu) | Apr 29-30 | Berlin, Germany | WebTorrent
-[CSV Conf](http://csvconf.com/) | May 3-4 | Berlin, Germany
+[SquatConf](http://squatconf.eu) | Apr 29 - 30 | Berlin, Germany | WebTorrent
+[CSV Conf](http://csvconf.com/) | May 3 - 4 | Berlin, Germany
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
-[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser
-[Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7-8 | San Francisco | P2P Panel, WebTorrent
+[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser ([video](https://www.youtube.com/watch?v=2qrUx-C5Np4))
+[Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7 - 8 | San Francisco | P2P Panel, WebTorrent
 [FOMS](http://www.foms-workshop.org/foms2016) | Oct 12 | San Francisco
-[Demuxed](http://demuxed.com) | Oct 13 | San Francisco
-[NodeConf EU](http://www.nodeconf.eu) | Oct 16-20 | Ireland | [Electron](http://electron.atom.io) workshop
+[NodeConf EU](http://www.nodeconf.eu) | Oct 16 - 20 | Ireland | [Electron](http://electron.atom.io) workshop
 [NodeJS Conf Italy](http://nodejsconf.it) | Oct 22 | Desenzano, Italy | [Electron](http://electron.atom.io) workshop
-[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | TBD
-[**CC Congress**](http://events.ccc.de) | TBD | TBD
+[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | Real-world Electron
+[**CCC**](http://events.ccc.de) | Dec 27 - 30 | Hamburg, Germany
 
 Possibly more from [this list](https://github.com/watson/hacker-conferences)...
 
