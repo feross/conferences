@@ -8,7 +8,7 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
 [**Nordic JS**](http://nordicjs.com) | Sep 7 - 8 | Stockholm, Sweden | TBD
-[**HolyJS**] | Dec | Moscow, Russia | TBD
+[**HolyJS**](http://holyjs.ru/en) | Dec | Moscow, Russia | TBD
 [**CCC**](http://events.ccc.de) | Dec | Hamburg, Germany | TBD
 
 # 2016
