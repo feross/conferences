@@ -8,24 +8,28 @@ For a complete list of cool conferences, see [hacker-conferences](https://github
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[**CCC**](http://events.ccc.de) | Dec | Hamburg, Germany | TBD
-[**HolyJS**](http://holyjs.ru/en) | Dec | Moscow, Russia | TBD
-[**Nordic JS**](http://nordicjs.com) | Sep 7 - 8 | Stockholm, Sweden | TBD
+[**CCC**](http://events.ccc.de) | Dec | Hamburg | TBD
+[**HolyJS**](http://holyjs.ru/en) | Dec | Moscow | TBD
+[**NodeFest**](http://nodefest.jp) | Nov | Tokyo | TBD
+[**ArcticJS**](http://arcticjs.club) | TBD | TBD | TBD
+[**Nordic JS**](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
 [**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
+[**NodeConf Adventure**](http://nodeconf.com) | Jun | Petaluma, CA | TBD
+[**JSConf EU**](http://2017.jsconf.eu) | May 6 - 7 | Berlin | TBD
 
 # 2016
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | Real-world Electron
+[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires | Real-world Electron
 [NodeJS Conf Italy](http://nodejsconf.it) | Oct 22 | Desenzano, Italy | [Electron](http://electron.atom.io) workshop
-[NodeConf EU](http://www.nodeconf.eu) | Oct 16 - 20 | Ireland | [Electron](http://electron.atom.io) workshop
+[NodeConf EU](http://www.nodeconf.eu) | Oct 16 - 20 | Kilkenny, Ireland | [Electron](http://electron.atom.io) workshop
 [FOMS](http://www.foms-workshop.org/foms2016) | Oct 12 | San Francisco
 [Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7 - 8 | San Francisco | P2P Panel, WebTorrent
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser ([video](https://www.youtube.com/watch?v=2qrUx-C5Np4))
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
-[CSV Conf](http://csvconf.com/) | May 3 - 4 | Berlin, Germany
-[SquatConf](http://squatconf.eu) | Apr 29 - 30 | Berlin, Germany | WebTorrent
+[CSV Conf](http://csvconf.com/) | May 3 - 4 | Berlin
+[SquatConf](http://squatconf.eu) | Apr 29 - 30 | Berlin | WebTorrent
 [Collaboration Summit](http://events.linuxfoundation.org/events/collaboration-summit) | Mar 29 - 31 | Lake Tahoe
 [Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun ...and Profit? ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
 
