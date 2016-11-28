@@ -14,7 +14,7 @@ Conference | Date | Location | Speaker
 [**NodeFest**](http://nodefest.jp) | Nov | Tokyo | TBD
 [**ArcticJS**](http://arcticjs.club) | TBD | TBD | TBD
 [**Nordic JS**](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
-[**ColdFront Conf**](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
+[**ColdFront Conf**](http://coldfrontconf.com) | Sep 3 | Copenhagen | TBD
 [**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
 [**NodeConf Adventure**](http://nodeconf.com) | Jun | Petaluma, CA | TBD
 [**JSConf EU**](http://2017.jsconf.eu) | May 6 - 7 | Berlin | TBD
