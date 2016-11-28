@@ -10,9 +10,11 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [**CCC**](http://events.ccc.de) | Dec | Hamburg | TBD
 [**HolyJS**](http://holyjs.ru/en) | Dec | Moscow | TBD
+[**JSConf Asia**](https://2016.jsconf.asia) | Nov | Singapore | TBD
 [**NodeFest**](http://nodefest.jp) | Nov | Tokyo | TBD
 [**ArcticJS**](http://arcticjs.club) | TBD | TBD | TBD
 [**Nordic JS**](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
+[**ColdFront Conf**](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
 [**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
 [**NodeConf Adventure**](http://nodeconf.com) | Jun | Petaluma, CA | TBD
 [**JSConf EU**](http://2017.jsconf.eu) | May 6 - 7 | Berlin | TBD
@@ -38,7 +40,7 @@ Conference | Date | Location | Speaker
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [CC Congress](https://events.ccc.de/congress/2015/wiki/Main_Page) | Dec 27 - 30 | Hamburg, Germany
-[Coldfront Conference](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
+[ColdFront Conf](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
 [CC Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13 - 17 | Berlin, Germany
 [SF WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222719027/) | Jul 1 | San Francisco | WebRTC Beyond the Browser
 [Google I/O WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
