@@ -17,6 +17,8 @@ Conference | Date | Location | Speaker
 [**NodeConf Adventure**](http://nodeconf.com) | Jun | Petaluma, CA | TBD
 [**JSConf EU**](http://2017.jsconf.eu) | May 6 - 7 | Berlin | TBD
 
+Consider: JSConf Uruguay, JSConf Colombia
+
 For more ideas, see [hacker-conferences](https://github.com/watson/hacker-conferences).
 
 # 2016
