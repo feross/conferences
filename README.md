@@ -7,13 +7,13 @@ List of conferences that I'm attending. (**BOLD** = Tentative, need to get ticke
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [**CCC**](http://events.ccc.de) | Dec | Hamburg | TBD
-[**HolyJS**](http://holyjs.ru/en) | Dec | Moscow | TBD
 [**JSConf Asia**](https://2016.jsconf.asia) | Nov | Singapore | TBD
 [**NodeFest**](http://nodefest.jp) | Nov | Tokyo | TBD
 [**ArcticJS**](http://arcticjs.club) | TBD | TBD | TBD
 [**Nordic JS**](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
 [**ColdFront Conf**](http://coldfrontconf.com) | Sep 3 | Copenhagen | TBD
 [**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
+[**HolyJS**](http://holyjs.ru/en) | Jun | Moscow | TBD
 [**NodeConf Adventure**](http://nodeconf.com) | Jun | Petaluma, CA | TBD
 [**JSConf EU**](http://2017.jsconf.eu) | May 6 - 7 | Berlin | TBD
 
