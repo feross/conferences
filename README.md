@@ -13,7 +13,6 @@ Conference | Date | Location | Speaker
 [**JSConf Columbia**]() | Nov 3 - 4 | Medellin, Columbia | TBD
 [**Nordic.js**](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
 [**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
-[**NodeConf Adventure**](http://nodeconf.com) | Jul 6 - 9 | Petaluma, CA | TBD
 [**Web Rebels**](https://www.webrebels.org/) | Jun 1 - 2 | Oslo | TBD
 
 Consider: JSConf Uruguay, http://startechconf.com/, https://nerdear.la/, http://scaleconfco.com/
