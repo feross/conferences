@@ -6,18 +6,17 @@ List of conferences that I'm attending. (**BOLD** = Tentative, need to get ticke
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[**CCC**](http://events.ccc.de) | Dec | Hamburg | TBD
-[**JSConf Asia**](https://2016.jsconf.asia) | Nov | Singapore | TBD
-[**NodeFest**](http://nodefest.jp) | Nov | Tokyo | TBD
-[**ArcticJS**](http://arcticjs.club) | TBD | TBD | TBD
-[**Nordic JS**](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
-[**ColdFront Conf**](http://coldfrontconf.com) | Sep 3 | Copenhagen | TBD
+[**CCC**](http://events.ccc.de) | Dec? | Hamburg | TBD
+[**ArcticJS**](http://arcticjs.club) | Dec 16 - 17 | Longyearbyen | TBD
+[**NodeFest**](http://nodefest.jp) | Nov? | Tokyo | TBD
+[**NodeConf EU**](http://www.nodeconf.eu) | Nov 5 - 8 | Kilkenny, Ireland | TBD
+[**JSConf Columbia**]() | Nov 3 - 4 | Medellin, Columbia | TBD
+[**Nordic.js**](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
 [**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
-[**HolyJS**](http://holyjs.ru/en) | Jun | Moscow | TBD
-[**NodeConf Adventure**](http://nodeconf.com) | Jun | Petaluma, CA | TBD
-[**JSConf EU**](http://2017.jsconf.eu) | May 6 - 7 | Berlin | TBD
+[**NodeConf Adventure**](http://nodeconf.com) | Jul 6 - 9 | Petaluma, CA | TBD
+[**Web Rebels**](https://www.webrebels.org/) | Jun 1 - 2 | Oslo | TBD
 
-Consider: JSConf Uruguay, JSConf Colombia, http://startechconf.com/, https://nerdear.la/, http://scaleconfco.com/
+Consider: JSConf Uruguay, http://startechconf.com/, https://nerdear.la/, http://scaleconfco.com/
 
 For more ideas, see [hacker-conferences](https://github.com/watson/hacker-conferences).
 
