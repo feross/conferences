@@ -1,6 +1,6 @@
 # conferences
 
-List of conferences that I'm attending. (**BOLD** = Tentative, need to get tickets.)
+List of conferences that I'm attending. (**BOLD** = Tentative)
 
 # 2017
 
@@ -10,10 +10,10 @@ Conference | Date | Location | Speaker
 [**ArcticJS**](http://arcticjs.club) | Dec 16 - 17 | Longyearbyen | TBD
 [**NodeFest**](http://nodefest.jp) | Nov? | Tokyo | TBD
 [**NodeConf EU**](http://www.nodeconf.eu) | Nov 5 - 8 | Kilkenny, Ireland | TBD
-[**JSConf Columbia**]() | Nov 3 - 4 | Medellin, Columbia | TBD
-[**Nordic.js**](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
+[**JSConf Columbia**](https://jsconf.co/) | Nov 3 - 4 | Medellin, Columbia | TBD
+[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
+[ColdFront Conf](https://2017.coldfront.co/) | Sep 5 - 6 | Copenhagen
 [**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
-[**Web Rebels**](https://www.webrebels.org/) | Jun 1 - 2 | Oslo | TBD
 
 Consider: JSConf Uruguay, http://startechconf.com/, https://nerdear.la/, http://scaleconfco.com/
 
@@ -40,7 +40,7 @@ Conference | Date | Location | Speaker
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [CC Congress](https://events.ccc.de/congress/2015/wiki/Main_Page) | Dec 27 - 30 | Hamburg, Germany
-[ColdFront Conf](http://coldfrontconf.com) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
+[ColdFront Conf](https://2015.coldfront.co/) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
 [CC Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13 - 17 | Berlin, Germany
 [SF WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222719027/) | Jul 1 | San Francisco | WebRTC Beyond the Browser
 [Google I/O WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
