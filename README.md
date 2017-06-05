@@ -13,7 +13,6 @@ Conference | Date | Location | Speaker
 [**JSConf Columbia**](https://jsconf.co/) | Nov 3 - 4 | Medellin, Columbia | TBD
 [Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
 [ColdFront Conf](https://2017.coldfront.co/) | Sep 5 - 6 | Copenhagen
-[**DEFCON**](https://www.defcon.org) | Jul 27 - 30 | Las Vegas | TBD
 
 Consider: JSConf Uruguay, http://startechconf.com/, https://nerdear.la/, http://scaleconfco.com/
 
