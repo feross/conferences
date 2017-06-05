@@ -17,7 +17,7 @@ Conference | Date | Location | Speaker
 
 Consider: JSConf Uruguay, http://startechconf.com/, https://nerdear.la/, http://scaleconfco.com/
 
-For more ideas, see [hacker-conferences](https://github.com/watson/hacker-conferences).
+For more ideas, see [watson/conferences](https://github.com/watson/conferences).
 
 # 2016
 
