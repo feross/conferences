@@ -6,9 +6,9 @@ List of conferences that I'm attending. (**BOLD** = Tentative)
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[**CCC**](http://events.ccc.de) | Dec? | Hamburg | TBD
+[**CCC**](http://events.ccc.de) | Dec 27-30? | Leipzig, Germany | TBD
 [**ArcticJS**](http://arcticjs.club) | Dec 16 - 17 | Longyearbyen | TBD
-[**NodeFest**](http://nodefest.jp) | Nov? | Tokyo | TBD
+[**NodeFest**](http://nodefest.jp) | Nov 25 - 26 | Tokyo | TBD
 [**NodeConf EU**](http://www.nodeconf.eu) | Nov 5 - 8 | Kilkenny, Ireland | TBD
 [**JSConf Columbia**](https://jsconf.co/) | Nov 3 - 4 | Medellin, Columbia | TBD
 [Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
