@@ -8,9 +8,7 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [CCC](http://events.ccc.de) | Dec 27-30? | Leipzig, Germany | TBD
 [ArcticJS](http://arcticjs.club) | Dec 16 - 17 | Longyearbyen | TBD
-[NodeFest Japan](http://nodefest.jp) | Nov 25 - 26 | Tokyo | TBD
-[NodeConf EU](http://www.nodeconf.eu) | Nov 5 - 8 | Kilkenny, Ireland | TBD
-[JSConf Columbia](https://jsconf.co/) | Nov 3 - 4 | Medellin, Columbia | TBD
+[NodeFest Tokyo](http://nodefest.jp) | Nov 25 - 26 | Tokyo | TBD
 
 # 2017
 
