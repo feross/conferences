@@ -1,33 +1,33 @@
 # conferences
 
-List of conferences that I'm attending. (**BOLD** = Tentative)
+List of conferences that I'm attending.
+
+# Tentative
+
+Conference | Date | Location | Speaker
+-----------|------|----------|--------
+[CCC](http://events.ccc.de) | Dec 27-30? | Leipzig, Germany | TBD
+[ArcticJS](http://arcticjs.club) | Dec 16 - 17 | Longyearbyen | TBD
+[NodeFest Japan](http://nodefest.jp) | Nov 25 - 26 | Tokyo | TBD
+[NodeConf EU](http://www.nodeconf.eu) | Nov 5 - 8 | Kilkenny, Ireland | TBD
+[JSConf Columbia](https://jsconf.co/) | Nov 3 - 4 | Medellin, Columbia | TBD
 
 # 2017
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[**CCC**](http://events.ccc.de) | Dec 27-30? | Leipzig, Germany | TBD
-[**ArcticJS**](http://arcticjs.club) | Dec 16 - 17 | Longyearbyen | TBD
-[**NodeFest**](http://nodefest.jp) | Nov 25 - 26 | Tokyo | TBD
-[**NodeConf EU**](http://www.nodeconf.eu) | Nov 5 - 8 | Kilkenny, Ireland | TBD
-[**JSConf Columbia**](https://jsconf.co/) | Nov 3 - 4 | Medellin, Columbia | TBD
-[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | TBD
-[ColdFront Conf](https://2017.coldfront.co/) | Sep 5 - 6 | Copenhagen
-
-Consider: JSConf Uruguay, http://startechconf.com/, https://nerdear.la/, http://scaleconfco.com/
-
-For more ideas, see [watson/conferences](https://github.com/watson/conferences).
+[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | Get Rich Quick with P2P Crypto Currency $$$$$$$$$ ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
 
 # 2016
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires | Real-world Electron
+[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires | Real-world Electron ([video](https://www.youtube.com/watch?v=YLExGgEnbFY)) ([slides](https://speakerdeck.com/feross/real-world-electron))
 [NodeJS Conf Italy](http://nodejsconf.it) | Oct 22 | Desenzano, Italy | [Electron](http://electron.atom.io) workshop
 [NodeConf EU](http://www.nodeconf.eu) | Oct 16 - 20 | Kilkenny, Ireland | [Electron](http://electron.atom.io) workshop
 [FOMS](http://www.foms-workshop.org/foms2016) | Oct 12 | San Francisco
 [Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7 - 8 | San Francisco | P2P Panel, WebTorrent
-[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser ([video](https://www.youtube.com/watch?v=2qrUx-C5Np4))
+[SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser ([video](https://www.youtube.com/watch?v=2qrUx-C5Np4)) ([slides](https://speakerdeck.com/feross/webtorrent-bringing-p2p-to-the-masses-with-webrtc))
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
 [CSV Conf](http://csvconf.com/) | May 3 - 4 | Berlin
 [SquatConf](http://squatconf.eu) | Apr 29 - 30 | Berlin | WebTorrent
