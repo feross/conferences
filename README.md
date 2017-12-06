@@ -2,20 +2,27 @@
 
 List of conferences that I'm attending.
 
-# Tentative
+# Wishlist for 2018
 
+Conference | Location
+-----------|------|----------
+[NodeFest Tokyo](http://nodefest.jp) | Tokyo
+[CCC](http://events.ccc.de) | Leipzig, Germany
+[ArcticJS](http://arcticjs.club) | Longyearbyen
+
+# 2018
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[CCC](http://events.ccc.de) | Dec 27-30? | Leipzig, Germany | TBD
-[ArcticJS](http://arcticjs.club) | Dec 16 - 17 | Longyearbyen | TBD
-[NodeFest Tokyo](http://nodefest.jp) | Nov 25 - 26 | Tokyo | TBD
+[WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna | TBD
+[JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | TBD StandardJS
 
 # 2017
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | Get Rich Quick with P2P Crypto Currency ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
+[dotJS](https://www.dotjs.io) | Dec 1 | Paris | The Annoying Site
 [Chrome Dev Summit](https://developer.chrome.com/devsummit/) | Oct 23 - 24 | San Francisco
+[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | Get Rich Quick with P2P Crypto Currency ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
 
 # 2016
 
