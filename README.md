@@ -2,13 +2,18 @@
 
 List of conferences that I'm attending.
 
-# Wishlist for 2018
+# Wishlist
 
 Conference | Location
 -----------|---------|
 [NodeFest Tokyo](http://nodefest.jp) | Tokyo
 [CCC](http://events.ccc.de) | Leipzig, Germany
 [ArcticJS](http://arcticjs.club) | Longyearbyen
+
+# 2019
+Conference | Date | Location | Speaker
+-----------|------|----------|--------
+JSConf Costa Rica | Feb 1 - 2 | ? | TBD
 
 # 2018
 Conference | Date | Location | Speaker
