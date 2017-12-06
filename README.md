@@ -81,7 +81,7 @@ eBay (tech talk) | Aug 6 | San Jose | PeerCDN ([slides](https://speakerdeck.com/
 [NodeConf](http://nodeconf.com) | Jun 27 - 30 | San Francisco
 [SHIFT Conference](http://shiftsplit.com) | May 24 - 25 | Split, Croatia | What the Open Web Can Do for You ([slides](https://speakerdeck.com/feross/what-the-open-web-can-do-for-you))
 
-# 2010-2012 (University Years)
+# 2010-2012 (Stanford years)
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
