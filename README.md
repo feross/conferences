@@ -25,7 +25,7 @@ Conference | Date | Location | Speaker
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[dotJS](https://www.dotjs.io) | Dec 1 | Paris | The Annoying Site ([video](https://www.youtube.com/watch?v=6pY9Bfwfj2A)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-the-power-of-the-web-platform))
+[dotJS](https://www.dotjs.io) | Dec 1 | Paris | The Most Annoying Website ([video](https://www.youtube.com/watch?v=6pY9Bfwfj2A)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-the-power-of-the-web-platform))
 [Chrome Dev Summit](https://developer.chrome.com/devsummit/) | Oct 23 - 24 | San Francisco
 [Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | Get Rich Quick with P2P Crypto Currency ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
 
