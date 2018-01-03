@@ -13,7 +13,7 @@ Conference | Location
 # 2019
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[JSConf Costa Rica](#TODO) | Feb 1 - 2 | TBD, Costa Rica | TBD
+[JSConf Costa Rica](#TODO) | Feb 1 - 2 | San Jose, Costa Rica | TBD
 
 # 2018
 Conference | Date | Location | Speaker
