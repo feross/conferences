@@ -21,7 +21,7 @@ Conference | Date | Location | Speaker
 [JSConf Columbia](https://jsconf.co/) | Oct 5 - 6 | Medellín, Columbia | TBD
 [BrazilJS](https://braziljs.org/conf/) | Aug 24 - 25 | Porto Alegre, Brazil | TBD
 [WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna | TBD
-[JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | TBD StandardJS
+[JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | How to Write Perfect Code with Standard and ESLint ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint))
 
 # 2017
 
