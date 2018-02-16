@@ -4,11 +4,11 @@ List of conferences that I'm attending.
 
 # Wishlist
 
-Conference | Location
------------|---------|
-[NodeFest Tokyo](http://nodefest.jp) | Tokyo
-[CCC](http://events.ccc.de) | Leipzig, Germany
-[ArcticJS](http://arcticjs.club) | Longyearbyen
+Conference | Date | Location
+-----------|------|---------
+[NodeFest Tokyo](http://nodefest.jp) | Late November | Tokyo
+[CCC](http://events.ccc.de) | Late December | Leipzig, Germany
+[ArcticJS](http://arcticjs.club) | TDB | Longyearbyen
 
 # 2019
 Conference | Date | Location | Speaker
