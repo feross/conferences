@@ -4,6 +4,8 @@ List of conferences that I'm attending.
 
 # Wishlist
 
+No immediate plans to attend, but I want to eventually.
+
 Conference | Date | Location
 -----------|------|---------
 [NodeFest Tokyo](http://nodefest.jp) | Late November | Tokyo
@@ -11,11 +13,13 @@ Conference | Date | Location
 [ArcticJS](http://arcticjs.club) | TDB | Longyearbyen
 
 # 2019
+
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [JSConf Costa Rica](#TODO) | Feb 1 - 2 | San Jose, Costa Rica | TBD
 
 # 2018
+
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [JSConf Columbia](https://jsconf.co/) | Oct 5 - 6 | Medellín, Columbia | TBD
