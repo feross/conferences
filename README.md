@@ -10,6 +10,7 @@ Conference | Date | Location
 -----------|------|---------
 [DEFCON 26](https://www.defcon.org) | Aug 9 - 12 | Las Vegas
 [NodeBoat](http://nodebo.at) | Late September | Copenhagen
+[NodeConf EU](http://www.nodeconf.eu) | October | Kilkenny, Ireland
 [NodeFest Tokyo](http://nodefest.jp) | Late November | Tokyo
 [CCC](http://events.ccc.de) | Late December | Leipzig, Germany
 [ArcticJS](http://arcticjs.club) | TDB | Longyearbyen
