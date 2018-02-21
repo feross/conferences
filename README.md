@@ -96,13 +96,23 @@ eBay (tech talk) | Aug 6 | San Jose | PeerCDN ([slides](https://speakerdeck.com/
 [NodeConf](http://nodeconf.com) | Jun 27 - 30 | San Francisco
 [SHIFT Conference](http://shiftsplit.com) | May 24 - 25 | Split, Croatia | What the Open Web Can Do for You ([slides](https://speakerdeck.com/feross/what-the-open-web-can-do-for-you))
 
-# 2010-2012 (Stanford years)
+# 2012
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [DEFCON 20](https://www.defcon.org) | Aug 7, 2012 | Las Vegas
 [Stanford ACM](http://stanfordacm.com) | Jan 20, 2012 | Stanford | Database Passwords Everywhere ([slides](https://speakerdeck.com/feross/database-passwords-everywhere))
+
+# 2011
+
+Conference | Date | Location | Speaker
+-----------|------|----------|--------
 [Stanford ASES](http://ases.stanford.edu) | Feb 26, 2011 | Stanford | How to Start Your Company by Age 21 (panel)
+
+# 2010
+
+Conference | Date | Location | Speaker
+-----------|------|----------|--------
 [Stanford ACM](http://stanfordacm.com) | Oct 29, 2010 | Stanford | Going Viral on the Web
 [Stanford ASES](http://ases.stanford.edu) | Oct 18, 2010 | Stanford | The Story of YouTube Instant
 [Stanford ACM](http://stanfordacm.com) | Jan 29, 2010 | Stanford | Web Security at Stanford University ([slides](https://speakerdeck.com/feross/web-security-at-stanford-university))
