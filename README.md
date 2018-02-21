@@ -8,6 +8,7 @@ Not 100% sure I'm attending. But I want to!
 
 Conference | Date | Location
 -----------|------|---------
+[DEFCON 26](https://www.defcon.org) | Aug 9 - 12 | Las Vegas
 [NodeBoat](http://nodebo.at) | Late September | Copenhagen
 [NodeFest Tokyo](http://nodefest.jp) | Late November | Tokyo
 [CCC](http://events.ccc.de) | Late December | Leipzig, Germany
