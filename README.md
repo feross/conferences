@@ -8,6 +8,7 @@ No immediate plans to attend, but I want to eventually.
 
 Conference | Date | Location
 -----------|------|---------
+[NodeBoat](http://nodebo.at) | Late September | Copenhagen
 [NodeFest Tokyo](http://nodefest.jp) | Late November | Tokyo
 [CCC](http://events.ccc.de) | Late December | Leipzig, Germany
 [ArcticJS](http://arcticjs.club) | TDB | Longyearbyen
