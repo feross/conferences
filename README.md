@@ -4,7 +4,7 @@ List of conferences that I'm attending.
 
 # Wishlist
 
-No immediate plans to attend, but I want to eventually.
+Not 100% sure I'm attending. But I want to!
 
 Conference | Date | Location
 -----------|------|---------
