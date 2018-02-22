@@ -27,7 +27,7 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [JSConf Colombia](https://jsconf.co/) | Oct 5 - 6 | Medellín, Colombia | TBD
 [BrazilJS](https://braziljs.org/conf/) | Aug 24 - 25 | Porto Alegre, Brazil | TBD
-[WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna | TBD
+[WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | TBD
 [JavaScript fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) | Mar 18 | Kyiv, Ukraine | TBD
 [JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | How to Write Perfect Code with Standard and ESLint ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint)) ([video](https://www.youtube.com/watch?v=kuHfMw8j4xk))
 
