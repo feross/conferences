@@ -8,6 +8,7 @@ Not 100% sure I'm attending. But I want to!
 
 Conference | Date | Location
 -----------|------|---------
+[Decentralized Web Summit](#TODO) | Late June | San Francisco
 [DEFCON 26](https://www.defcon.org) | Aug 9 - 12 | Las Vegas
 [NodeBoat](http://nodebo.at) | Late September | Copenhagen
 [NodeConf EU](http://www.nodeconf.eu) | October | Kilkenny, Ireland
