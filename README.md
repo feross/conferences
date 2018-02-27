@@ -1,4 +1,4 @@
-# conferences
+# Conferences
 
 List of conferences that I'm attending.
 
@@ -26,7 +26,7 @@ Conference | Date | Location | Speaker
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[JSConf Colombia](https://jsconf.co/) | Oct 5 - 6 | Medellín, Colombia | TBD
+[JSConf Colombia](https://jsconf.co/) | Nov 15 - 17 | Medellín, Colombia | TBD
 [BrazilJS](https://braziljs.org/conf/) | Aug 24 - 25 | Porto Alegre, Brazil | TBD
 [WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | TBD
 [JS fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) | Mar 18 | Kyiv, Ukraine | TBD
