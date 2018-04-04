@@ -29,14 +29,14 @@ Conference | Date | Location | Speaker
 [JSConf Colombia](https://jsconf.co/) | Nov 15 - 17 | Medellín, Colombia | TBD
 [BrazilJS](https://braziljs.org/conf/) | Aug 24 - 25 | Porto Alegre, Brazil | TBD
 [WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | TBD
-[JS fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) | Mar 18 | Kyiv, Ukraine | TBD
+[JS fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) | Mar 18 | Kyiv, Ukraine | The Most Annoying Website ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform)) ([video](https://www.youtube.com/watch?v=EkpS1eWb2BA))
 [JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | How to Write Perfect Code ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint)) ([video](https://www.youtube.com/watch?v=kuHfMw8j4xk))
 
 # 2017
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[dotJS](https://www.dotjs.io) | Dec 1 | Paris | The Most Annoying Website ([video](https://www.youtube.com/watch?v=6pY9Bfwfj2A)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-the-power-of-the-web-platform))
+[dotJS](https://www.dotjs.io) | Dec 1 | Paris | The Most Annoying Website ([video](https://www.youtube.com/watch?v=6pY9Bfwfj2A)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform))
 [Chrome Dev Summit](https://developer.chrome.com/devsummit/) | Oct 23 - 24 | San Francisco
 [Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | Get Rich Quick with P2P Crypto Currency ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
 [DEFCON 25](https://www.defcon.org) | Jul 30 - Aug 2 | Las Vegas
