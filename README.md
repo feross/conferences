@@ -27,7 +27,7 @@ Conference | Date | Location | Speaker
 [JSConf Colombia](https://jsconf.co) | Nov 15 - 17 | Medellín, Colombia | TBD
 [BrazilJS](https://braziljs.org/conf/) | Aug 24 - 25 | Porto Alegre, Brazil | TBD
 [JSConf US](https://2018.jsconf.us) | Aug 21 - 23 | Carlsbad, CA | TBD
-[Decentralized Web Summit](https://decentralizedweb.net) | Jul 30 - Aug 2 | San Francisco | TBD
+[Decentralized Web Summit](https://decentralizedweb.net) | Jul 31 - Aug 2 | San Francisco | TBD
 [WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | TBD
 [JS fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) | Mar 18 | Kyiv, Ukraine | The Most Annoying Website ([video](https://www.youtube.com/watch?v=EkpS1eWb2BA)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform))
 [JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | How to Write Perfect Code ([video](https://www.youtube.com/watch?v=kuHfMw8j4xk)) ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint))
