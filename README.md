@@ -8,13 +8,11 @@ Not 100% sure I'm attending. But I want to!
 
 Conference | Date | Location
 -----------|------|---------
-[Decentralized Web Summit](#TODO) | Late June | San Francisco
 [DEFCON 26](https://www.defcon.org) | Aug 9 - 12 | Las Vegas
 [NodeBoat](http://nodebo.at) | Late September | Copenhagen
 [NodeConf EU](http://www.nodeconf.eu) | October | Kilkenny, Ireland
 [NodeFest Tokyo](http://nodefest.jp) | Late November | Tokyo
 [CCC](http://events.ccc.de) | Late December | Leipzig, Germany
-[ArcticJS](http://arcticjs.club) | TDB | Longyearbyen
 
 # 2019
 
@@ -26,8 +24,9 @@ Conference | Date | Location | Speaker
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[JSConf Colombia](https://jsconf.co/) | Nov 15 - 17 | Medellín, Colombia | TBD
+[JSConf Colombia](https://jsconf.co) | Nov 15 - 17 | Medellín, Colombia | TBD
 [BrazilJS](https://braziljs.org/conf/) | Aug 24 - 25 | Porto Alegre, Brazil | TBD
+[Decentralized Web Summit](https://decentralizedweb.net) | Jul 30 - Aug 2 | San Francisco
 [WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | TBD
 [JS fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) | Mar 18 | Kyiv, Ukraine | The Most Annoying Website ([video](https://www.youtube.com/watch?v=EkpS1eWb2BA)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform))
 [JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | How to Write Perfect Code ([video](https://www.youtube.com/watch?v=kuHfMw8j4xk)) ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint))
@@ -50,7 +49,7 @@ Conference | Date | Location | Speaker
 [NodeJS Conf Italy](http://nodejsconf.it) | Oct 22 | Desenzano, Italy | [Electron](http://electron.atom.io) workshop
 [NodeConf EU](http://www.nodeconf.eu) | Oct 16 - 20 | Kilkenny, Ireland | [Electron](http://electron.atom.io) workshop
 [FOMS](http://www.foms-workshop.org/foms2016) | Oct 12 | San Francisco
-[Decentralized Web Summit](http://www.decentralizedweb.net) | Jun 7 - 8 | San Francisco | P2P Panel, WebTorrent
+[Decentralized Web Summit](https://2016.decentralizedweb.net/) | Jun 7 - 8 | San Francisco | P2P Panel, WebTorrent
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser ([video](https://www.youtube.com/watch?v=2qrUx-C5Np4)) ([slides](https://speakerdeck.com/feross/webtorrent-bringing-p2p-to-the-masses-with-webrtc))
 [SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
 [CSV Conf](http://csvconf.com/) | May 3 - 4 | Berlin
