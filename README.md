@@ -24,7 +24,6 @@ Conference | Date | Location | Speaker
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [JSConf Colombia](https://jsconf.co) | Nov 15 - 17 | Medellín, Colombia | TBD
-[BrazilJS](https://braziljs.org/conf/) | Aug 24 - 25 | Porto Alegre, Brazil | TBD
 [JSConf US](https://2018.jsconf.us) | Aug 21 - 23 | Carlsbad, CA | TBD
 [Decentralized Web Summit](https://decentralizedweb.net) | Jul 31 - Aug 2 | San Francisco | WebTorrent demos
 [Decentralized Web Meetup](https://www.eventbrite.com/e/decentralized-web-meet-up-tickets-46225948055) | Jun 13 | San Francisco | WebTorrent update ([slides](https://speakerdeck.com/feross/decentralized-web-meetup-2018))
