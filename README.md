@@ -4,10 +4,9 @@ List of conferences that I'm attending.
 
 # Wishlist
 
-Not 100% sure I'm attending. But I want to!
-
 Conference | Date | Location
 -----------|------|---------
+[Pixels Camps](https://pixels.camp) | March | Lisbon, Portugal
 [NodeBoat](http://nodebo.at) | Late September | Copenhagen
 [NodeConf EU](http://www.nodeconf.eu) | October | Kilkenny, Ireland
 [NodeFest Tokyo](http://nodefest.jp) | Late November | Tokyo
@@ -17,7 +16,6 @@ Conference | Date | Location
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[JSConf Costa Rica](#TODO) | Feb 1 - 2 | San Jose, Costa Rica | TBD
 
 # 2018
 
