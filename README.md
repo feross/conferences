@@ -17,6 +17,7 @@ Conference | Date | Location
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
+[DWeb Camp](http://dwebcamp.org/) | Jul 18 - 21 | Bay Area, CA
 
 # 2018
 
