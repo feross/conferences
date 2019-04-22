@@ -18,6 +18,7 @@ Conference | Date | Location
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [DWeb Camp](http://dwebcamp.org/) | Jul 18 - 21 | Bay Area, CA
+[JS.LA](https://js.la/) | Jul 25 | Los Angeles, CA | The Lost Art of MIDI
 
 # 2018
 
