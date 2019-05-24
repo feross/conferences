@@ -56,7 +56,7 @@ Conference | Date | Location | Speaker
 [opoJS](http://opojs.com) | Feb 26 | Porto, Portugal
 [NodeConf One-Shot](http://christchurch.nodeconf.com) | Mar 28 | Christchurch, New Zealand | Adventures in P2P JavaScript ([slides](https://speakerdeck.com/feross/adventures-in-p2p-javascript))
 [Data Terra Nemo](http://dtn.is) | May 23 | Berlin, Germany | WebRTC Everywhere ([video](https://www.youtube.com/watch?v=RRtNEcAaUO8)) ([slides](https://speakerdeck.com/feross/webrtc-everywhere-beyond-the-browser-at-data-terra-nemo-2015))
-[Google I/O WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
+[Google I/O WebRTC](http://www.meetup.com/SF-WebRTC/events/222843538/) | May 28 | San Francisco | WebTorrent demo ([video](https://www.youtube.com/watch?v=hAdYMCDpPwc&t=1795))
 [SF WebRTC meetup](http://www.meetup.com/SF-WebRTC/events/222719027/) | Jul 1 | San Francisco | WebRTC Beyond the Browser
 [CC Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) | Aug 13 - 17 | Berlin, Germany
 [ColdFront Conf](https://2015.coldfront.co/) | Sep 3 | Copenhagen, Denmark | Web Apps of The Future ([video](https://www.youtube.com/watch?v=hcbNdLDWCO8)) ([slides](https://speakerdeck.com/feross/web-apps-of-the-future))
@@ -93,19 +93,19 @@ eBay (tech talk) | Aug 6 | San Jose | PeerCDN ([slides](https://speakerdeck.com/
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Stanford ACM](http://stanfordacm.com) | Jan 20, 2012 | Stanford | Database Passwords Everywhere ([slides](https://speakerdeck.com/feross/database-passwords-everywhere))
-[DEFCON 20](https://www.defcon.org) | Aug 7, 2012 | Las Vegas
+[Stanford ACM](http://stanfordacm.com) | Jan 20 | Stanford | Database Passwords Everywhere ([slides](https://speakerdeck.com/feross/database-passwords-everywhere))
+[DEFCON 20](https://www.defcon.org) | Aug 7 | Las Vegas
 
 # 2011
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Stanford ASES](http://ases.stanford.edu) | Feb 26, 2011 | Stanford | How to Start Your Company by Age 21 (panel)
+[Stanford ASES](http://ases.stanford.edu) | Feb 26 | Stanford | How to Start Your Company by Age 21 (panel)
 
 # 2010
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Stanford ACM](http://stanfordacm.com) | Jan 29, 2010 | Stanford | Web Security at Stanford University ([slides](https://speakerdeck.com/feross/web-security-at-stanford-university))
-[Stanford ASES](http://ases.stanford.edu) | Oct 18, 2010 | Stanford | The Story of YouTube Instant
-[Stanford ACM](http://stanfordacm.com) | Oct 29, 2010 | Stanford | Going Viral on the Web
+[Stanford ACM](http://stanfordacm.com) | Jan 29 | Stanford | Web Security at Stanford University ([slides](https://speakerdeck.com/feross/web-security-at-stanford-university))
+[Stanford ASES](http://ases.stanford.edu) | Oct 18 | Stanford | The Story of YouTube Instant
+[Stanford ACM](http://stanfordacm.com) | Oct 29 | Stanford | Going Viral on the Web
