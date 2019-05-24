@@ -2,17 +2,6 @@
 
 List of conferences that I'm attending.
 
-# Wishlist
-
-Conference | Date | Location
------------|------|---------
-[Pixels Camps](https://pixels.camp) | March | Lisbon, Portugal
-[NodeBoat](http://nodebo.at) | Late September | Copenhagen
-[NodeConf EU](http://www.nodeconf.eu) | October | Kilkenny, Ireland
-[NodeFest Tokyo](http://nodefest.jp) | Late November | Tokyo
-[CCC](http://events.ccc.de) | Late December | Leipzig, Germany
-[!!Con](http://bangbangcon.com) | Mid May | Manhattan, NYC
-
 # 2019
 
 Conference | Date | Location | Speaker
