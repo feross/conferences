@@ -19,7 +19,7 @@ Conference | Date | Location | Speaker
 [WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | How to Write Perfect Code ([video](https://www.youtube.com/watch?v=arNtoWxBuXc)) ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint))
 [Decentralized Web Meetup](https://www.eventbrite.com/e/decentralized-web-meet-up-tickets-46225948055) | Jun 13 | San Francisco | WebTorrent update ([slides](https://speakerdeck.com/feross/decentralized-web-meetup-2018))
 [Decentralized Web Summit](https://decentralizedweb.net) | Jul 31 - Aug 2 | San Francisco | WebTorrent demos
-[JSConf US](https://2018.jsconf.us) | Aug 21 - 23 | Carlsbad | The Annoying Site v2 ([video](https://www.youtube.com/watch?v=QFZ-pwErSl4)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform-v2))
+[JSConf US](https://2018.jsconf.us) | Aug 21 - 23 | Carlsbad | The Most Annoying Website ([video](https://www.youtube.com/watch?v=QFZ-pwErSl4)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform-v2))
 [JSConf Colombia](https://jsconf.co) | Nov 16 - 17 | Medellín, Colombia | The Lost Art of MIDI ([video](https://www.youtube.com/watch?v=BmfDMylKo5I)) ([slides](https://speakerdeck.com/feross/the-lost-art-of-midi-bringing-back-to-the-web))
 
 # 2017
@@ -27,7 +27,7 @@ Conference | Date | Location | Speaker
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [DEFCON 25](https://www.defcon.org) | Jul 30 - Aug 2 | Las Vegas
-[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm, Sweden | Get Rich Quick with P2P Crypto Currency ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
+[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm, Sweden | Get Rich Quick with P2P Cryptocurrency ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
 [Chrome Dev Summit](https://developer.chrome.com/devsummit/) | Oct 23 - 24 | San Francisco
 [dotJS](https://www.dotjs.io) | Dec 1 | Paris, France | The Most Annoying Website ([video](https://www.youtube.com/watch?v=6pY9Bfwfj2A)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform))
 
