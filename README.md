@@ -7,8 +7,8 @@ Conferences that I will attend or have already attended.
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Data Terra Nemo](https://dtn.is) | May 17 - 18 | Berlin, Germany | What I Learned from WebTorrent ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent))
-[DWeb Camp](http://dwebcamp.org) | Jul 18 - 21 | Bay Area, CA
-[JS.LA](https://js.la) | Jul 25 | Los Angeles, CA | TBD
+[DWeb Camp](http://dwebcamp.org) | Jul 18 - 21 | Bay Area
+[JS.LA](https://js.la) | Jul 25 | Los Angeles | TBD
 
 # 2018
 
@@ -19,7 +19,7 @@ Conference | Date | Location | Speaker
 [WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | How to Write Perfect Code ([video](https://www.youtube.com/watch?v=arNtoWxBuXc)) ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint))
 [Decentralized Web Meetup](https://www.eventbrite.com/e/decentralized-web-meet-up-tickets-46225948055) | Jun 13 | San Francisco | WebTorrent update ([slides](https://speakerdeck.com/feross/decentralized-web-meetup-2018))
 [Decentralized Web Summit](https://decentralizedweb.net) | Jul 31 - Aug 2 | San Francisco | WebTorrent demos
-[JSConf US](https://2018.jsconf.us) | Aug 21 - 23 | Carlsbad, CA | The Annoying Site v2 ([video](https://www.youtube.com/watch?v=QFZ-pwErSl4)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform-v2))
+[JSConf US](https://2018.jsconf.us) | Aug 21 - 23 | Carlsbad | The Annoying Site v2 ([video](https://www.youtube.com/watch?v=QFZ-pwErSl4)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform-v2))
 [JSConf Colombia](https://jsconf.co) | Nov 16 - 17 | Medellín, Colombia | The Lost Art of MIDI ([video](https://www.youtube.com/watch?v=BmfDMylKo5I)) ([slides](https://speakerdeck.com/feross/the-lost-art-of-midi-bringing-back-to-the-web))
 
 # 2017
@@ -27,9 +27,9 @@ Conference | Date | Location | Speaker
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [DEFCON 25](https://www.defcon.org) | Jul 30 - Aug 2 | Las Vegas
-[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm | Get Rich Quick with P2P Crypto Currency ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
+[Nordic.js](http://nordicjs.com) | Sep 7 - 8 | Stockholm, Sweden | Get Rich Quick with P2P Crypto Currency ([video](https://www.youtube.com/watch?v=8N_4Furztjo)) ([slides](https://speakerdeck.com/feross/get-rich-quick-with-p2p-crypto-currency))
 [Chrome Dev Summit](https://developer.chrome.com/devsummit/) | Oct 23 - 24 | San Francisco
-[dotJS](https://www.dotjs.io) | Dec 1 | Paris | The Most Annoying Website ([video](https://www.youtube.com/watch?v=6pY9Bfwfj2A)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform))
+[dotJS](https://www.dotjs.io) | Dec 1 | Paris, France | The Most Annoying Website ([video](https://www.youtube.com/watch?v=6pY9Bfwfj2A)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform))
 
 
 # 2016
@@ -38,15 +38,15 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Arctic JS](http://arcticjs.club) | Jan 19 - 21 | Longyearbyen, Svalbard | Using Ancient Browser APIs for Fun ...and Profit? ([video](https://www.youtube.com/watch?v=ONEdNNbLBd8))
 [Collaboration Summit](http://events.linuxfoundation.org/events/collaboration-summit) | Mar 29 - 31 | Lake Tahoe
-[SquatConf](http://squatconf.eu) | Apr 29 - 30 | Berlin | WebTorrent
-[CSV Conf](http://csvconf.com/) | May 3 - 4 | Berlin
-[SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View, CA
+[SquatConf](http://squatconf.eu) | Apr 29 - 30 | Berlin, Germany | WebTorrent
+[CSV Conf](http://csvconf.com/) | May 3 - 4 | Berlin, Germany
+[SF WebRTC Meetup](http://www.meetup.com/SF-WebRTC/events/230483002/) | May 18 | Mountain View
 [SIGNAL Conference](https://www.twilio.com/signal) | May 24 - 25 | San Francisco | BitTorrent in the browser ([video](https://www.youtube.com/watch?v=2qrUx-C5Np4)) ([slides](https://speakerdeck.com/feross/webtorrent-bringing-p2p-to-the-masses-with-webrtc))
 [Decentralized Web Summit](https://2016.decentralizedweb.net/) | Jun 7 - 8 | San Francisco | P2P Panel, WebTorrent
 [FOMS](http://www.foms-workshop.org/foms2016) | Oct 12 | San Francisco
 [NodeConf EU](http://www.nodeconf.eu) | Oct 16 - 20 | Kilkenny, Ireland | [Electron](http://electron.atom.io) workshop
 [NodeJS Conf Italy](http://nodejsconf.it) | Oct 22 | Desenzano, Italy | [Electron](http://electron.atom.io) workshop
-[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires | Real-world Electron ([video](https://www.youtube.com/watch?v=YLExGgEnbFY)) ([slides](https://speakerdeck.com/feross/real-world-electron))
+[NodeConf Argentina](https://2016.nodeconf.com.ar) | Nov 18-19 | Buenos Aires, Argentina | Real-world Electron ([video](https://www.youtube.com/watch?v=YLExGgEnbFY)) ([slides](https://speakerdeck.com/feross/real-world-electron))
 
 # 2015
 
