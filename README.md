@@ -6,9 +6,8 @@ Conferences that I will attend or have already attended.
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Data Terra Nemo](https://dtn.is) | May 17 - 18 | Berlin, Germany | What I Learned from WebTorrent ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent))
-[DWeb Camp](http://dwebcamp.org) | Jul 18 - 21 | Bay Area
-[JS.LA](https://js.la) | Jul 25 | Los Angeles | TBD
+[Data Terra Nemo](https://dtn.is) | May 17 - 18 | Berlin, Germany | What I Learned from WebTorrent ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent)) ([video](https://www.youtube.com/watch?v=E1RxSzbmMO0))
+[DWeb Camp](http://dwebcamp.org) | Jul 18 - 21 | Bay Area | Lightning Talk: What I Learned from WebTorrent ([slides](https://speakerdeck.com/feross/lightning-talk-what-i-learned-from-webtorrent) ([video](https://www.youtube.com/watch?v=oesN-FM7Rk8&t=1568))
 
 # 2018
 
