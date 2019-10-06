@@ -13,13 +13,13 @@ Conference | Date | Location | Speaker
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | How to Write Perfect Code ([video](https://www.youtube.com/watch?v=kuHfMw8j4xk)) ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint))
-[JS fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) | Mar 18 | Kyiv, Ukraine | The Most Annoying Website ([video](https://www.youtube.com/watch?v=EkpS1eWb2BA)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform))
-[WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | How to Write Perfect Code ([video](https://www.youtube.com/watch?v=arNtoWxBuXc)) ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint))
+[JSConf Asia](https://2018.jsconf.asia) | Jan 25 - 27 | Singapore | How to Write Perfect Code ([video](https://www.youtube.com/watch?v=kuHfMw8j4xk)) ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint)) ([backup video](https://www.youtube.com/watch?v=FAitAJtLbWc))
+[JS fwdays](https://frameworksdays.com/en/event/js-fwdays-2018) | Mar 18 | Kyiv, Ukraine | The Most Annoying Website ([video](https://www.youtube.com/watch?v=EkpS1eWb2BA)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform)) ([backup video](https://www.youtube.com/watch?v=CahoDqnEQdE))
+[WeAreDevelopers](https://www.wearedevelopers.com) | May 16 - 18 | Vienna, Austria | How to Write Perfect Code ([video](https://www.youtube.com/watch?v=arNtoWxBuXc)) ([slides](https://speakerdeck.com/feross/how-to-write-perfect-code-with-standard-and-eslint)) ([backup video](https://www.youtube.com/watch?v=glC9KfRKSQ4))
 [Decentralized Web Meetup](https://www.eventbrite.com/e/decentralized-web-meet-up-tickets-46225948055) | Jun 13 | San Francisco | WebTorrent update ([slides](https://speakerdeck.com/feross/decentralized-web-meetup-2018))
 [Decentralized Web Summit](https://decentralizedweb.net) | Jul 31 - Aug 2 | San Francisco | WebTorrent demos
-[JSConf US](https://2018.jsconf.us) | Aug 21 - 23 | Carlsbad | The Most Annoying Website ([video](https://www.youtube.com/watch?v=QFZ-pwErSl4)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform-v2))
-[JSConf Colombia](https://jsconf.co) | Nov 16 - 17 | Medellín, Colombia | The Lost Art of MIDI ([video](https://www.youtube.com/watch?v=BmfDMylKo5I)) ([slides](https://speakerdeck.com/feross/the-lost-art-of-midi-bringing-back-to-the-web))
+[JSConf US](https://2018.jsconf.us) | Aug 21 - 23 | Carlsbad | The Most Annoying Website ([video](https://www.youtube.com/watch?v=QFZ-pwErSl4)) ([slides](https://speakerdeck.com/feross/the-annoying-site-aka-power-of-the-web-platform-v2)) ([backup video](https://www.youtube.com/watch?v=xwnVBkM6J8s))
+[JSConf Colombia](https://jsconf.co) | Nov 16 - 17 | Medellín, Colombia | The Lost Art of MIDI ([video](https://www.youtube.com/watch?v=BmfDMylKo5I)) ([slides](https://speakerdeck.com/feross/the-lost-art-of-midi-bringing-back-to-the-web)) ([backup video](https://www.youtube.com/watch?v=-DyCsY0vcxM))
 
 # 2017
 
