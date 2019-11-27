@@ -6,7 +6,7 @@ Conferences that I will attend or have already attended.
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-
+[Covalence Conference](https://www.meetup.com/Bay-Area-Electron-User-Group/events/266639481/) | Jan 24 | San Francisco | |
 
 # 2019
 
