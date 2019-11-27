@@ -2,12 +2,19 @@
 
 Conferences that I will attend or have already attended.
 
+# 2020
+
+Conference | Date | Location | Speaker
+-----------|------|----------|--------
+
+
 # 2019
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Data Terra Nemo](https://dtn.is) | May 17 - 18 | Berlin, Germany | What I Learned from WebTorrent ([video](https://www.youtube.com/watch?v=E1RxSzbmMO0)) ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent)) ([backup video](https://www.youtube.com/watch?v=aqnvKP1DYRI))
 [DWeb Camp](http://dwebcamp.org) | Jul 18 - 21 | Bay Area | Lightning Talk: What I Learned from WebTorrent ([video](https://www.youtube.com/watch?v=oesN-FM7Rk8&t=1568)) ([slides](https://speakerdeck.com/feross/lightning-talk-what-i-learned-from-webtorrent)) ([backup video](https://www.youtube.com/watch?v=hHScAyV4eGI))
+[Chrome Dev Summit](https://developer.chrome.com/devsummit/) | Nov 11 - 12 | San Francisco | |
 
 # 2018
 
