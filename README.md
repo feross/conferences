@@ -6,7 +6,10 @@ Conferences that I will attend or have already attended.
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Covalence Conference](http://www.covalenceconf.com/) | Jan 24 | San Francisco | |
+[Covalence Conference](http://www.covalenceconf.com) | Jan 24 | San Francisco |
+[Sustain Summit](https://opencollective.com/sustainoss/events/sustain-2020-5874aeeb) | Jan 30 | Brussels
+[CHAOSScon Europe](https://chaoss.community/chaosscon-2020-eu) | Jan 31 | Brussels
+[FOSDEM](https://fosdem.org/2020) | Feb 1 - 2 | Brussels
 
 # 2019
 
@@ -14,7 +17,7 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Data Terra Nemo](https://dtn.is) | May 17 - 18 | Berlin, Germany | What I Learned from WebTorrent ([video](https://www.youtube.com/watch?v=E1RxSzbmMO0)) ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent)) ([backup video](https://www.youtube.com/watch?v=aqnvKP1DYRI))
 [DWeb Camp](http://dwebcamp.org) | Jul 18 - 21 | Bay Area | Lightning Talk: What I Learned from WebTorrent ([video](https://www.youtube.com/watch?v=oesN-FM7Rk8&t=1568)) ([slides](https://speakerdeck.com/feross/lightning-talk-what-i-learned-from-webtorrent)) ([backup video](https://www.youtube.com/watch?v=hHScAyV4eGI))
-[Chrome Dev Summit](https://developer.chrome.com/devsummit/) | Nov 11 - 12 | San Francisco | |
+[Chrome Dev Summit](https://developer.chrome.com/devsummit/) | Nov 11 - 12 | San Francisco |
 
 # 2018
 
