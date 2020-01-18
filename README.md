@@ -9,7 +9,7 @@ Conference | Date | Location | Speaker
 [Covalence Conference](http://www.covalenceconf.com) | Jan 24 | San Francisco |
 [Sustain Summit](https://opencollective.com/sustainoss/events/sustain-2020-5874aeeb) | Jan 30 | Brussels
 [FOSDEM](https://fosdem.org/2020) | Feb 1 - 2 | Brussels
-[BSides SF](https://bsidessf.org/) | Feb 22 - 24 | San Francisco
+[BSides SF](https://bsidessf.org/) | Feb 23 - 24 | San Francisco
 
 # 2019
 
