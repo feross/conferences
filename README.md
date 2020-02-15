@@ -6,9 +6,9 @@ Conferences that I will attend or have already attended.
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-[Sustain Summit](https://opencollective.com/sustainoss/events/sustain-2020-5874aeeb) | Jan 30 | Brussels
-[FOSDEM](https://fosdem.org/2020) | Feb 1 - 2 | Brussels
-[BSides SF](https://bsidessf.org/) | Feb 23 - 24 | San Francisco
+[Stanford Blockchain Conference](https://cbr.stanford.edu/sbc20/) | Feb 19 - 21 | Stanford |
+[BSides SF](https://bsidessf.org/) | Feb 23 - 24 | San Francisco |
+--- | May 19 - 21 | New Orleans |
 
 # 2019
 
