@@ -8,7 +8,9 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 [Stanford Blockchain Conference](https://cbr.stanford.edu/sbc20/) | Feb 19 - 21 | Stanford |
 [BSides SF](https://bsidessf.org/) | Feb 23 - 24 | San Francisco |
---- | May 19 - 21 | New Orleans |
+[SpeakeasyJS](https://speakeasyjs.com) | Every Friday at 4pm | Virtual |
+[JS.LA](https://js.la) | Sep 24 | Virtual | Building Speakeasy: WebRTC in the Real-World ([slides](https://speakerdeck.com/feross/building-speakeasy-webrtc-in-the-real-world))
+[UXDX](https://js.la) | Oct 7 | Virtual | Building Speakeasy: WebRTC in the Real-World ([slides](https://speakerdeck.com/feross/building-speakeasy-webrtc-in-the-real-world))
 
 # 2019
 
