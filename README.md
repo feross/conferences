@@ -2,12 +2,20 @@
 
 Conferences that I will attend or have already attended.
 
+# 2022
+
+Conference | Date | Location | Speaker
+-----------|------|----------|--------
+Node Congress | Feb 17 | Virtual | It's a Jungle Out There: What's Really Going on Inside Your Node_Modules Folder ([slides](https://speakerdeck.com/feross/its-a-jungle-out-there-whats-really-going-on-inside-your-node-modules-folder))
+[TreeHacks](https://www.treehacks.com) | Feb 18 | Virtual | It's a Jungle Out There: What's Really Going on Inside Your Node_Modules Folder ([slides](https://speakerdeck.com/feross/its-a-jungle-out-there-whats-really-going-on-inside-your-node-modules-folder))
+
 # 2021
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
 ETH Spring | Apr 23 | Virtual | Wormhole
 [Wonder WebRTC unConference](https://unconf.wonder.me/) | May 18 | Virtual | Wormhole
+[CascadiaJS] | Nov 3 | Virtual | It's a Jungle Out There! – Open Source Supply Chain Attacks ([slides](https://speakerdeck.com/feross/its-a-jungle-out-there-open-source-supply-chain-attacks)) ([video](https://www.youtube.com/watch?v=Cl7WVN4168M))
 
 # 2020
 
