@@ -15,7 +15,7 @@ Conference | Date | Location | Speaker
 -----------|------|----------|--------
 ETH Spring | Apr 23 | Virtual | Wormhole
 [Wonder WebRTC unConference](https://unconf.wonder.me/) | May 18 | Virtual | Wormhole
-[CascadiaJS] | Nov 3 | Virtual | It's a Jungle Out There! – Open Source Supply Chain Attacks ([slides](https://speakerdeck.com/feross/its-a-jungle-out-there-open-source-supply-chain-attacks)) ([video](https://www.youtube.com/watch?v=Cl7WVN4168M))
+[CascadiaJS](https://2021.cascadiajs.com/) | Nov 3 | Virtual | It's a Jungle Out There! – Open Source Supply Chain Attacks ([slides](https://speakerdeck.com/feross/its-a-jungle-out-there-open-source-supply-chain-attacks)) ([video](https://www.youtube.com/watch?v=Cl7WVN4168M))
 
 # 2020
 
