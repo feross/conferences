@@ -6,7 +6,7 @@ Conferences that I will attend or have already attended.
 
 Conference | Date | Location | Speaker
 -----------|------|----------|--------
-Node Congress | Feb 17 | Virtual | It's a Jungle Out There: What's Really Going on Inside Your Node_Modules Folder ([slides](https://speakerdeck.com/feross/its-a-jungle-out-there-whats-really-going-on-inside-your-node-modules-folder))
+[Node Congress](https://nodecongress.com) | Feb 17 | Virtual | It's a Jungle Out There: What's Really Going on Inside Your Node_Modules Folder ([slides](https://speakerdeck.com/feross/its-a-jungle-out-there-whats-really-going-on-inside-your-node-modules-folder))
 [TreeHacks](https://www.treehacks.com) | Feb 18 | Virtual | It's a Jungle Out There: What's Really Going on Inside Your Node_Modules Folder ([slides](https://speakerdeck.com/feross/its-a-jungle-out-there-whats-really-going-on-inside-your-node-modules-folder))
 
 # 2021
